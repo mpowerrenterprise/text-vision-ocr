@@ -20,12 +20,37 @@ An automatic images-to-text converter, this cutting-edge tool simplifies the com
 ## 02 Technology Stack
 
 - Python
-- OCR API (https://ocr.space/)
+- OCR API
 
 
 ## 03 Setup
 
+### 3.1 Step 01: Download & Install Python
+
+Download Link: https://www.python.org/
+
+
+### 3.2 Step 02: Create an API Key
+
+API Provider Link: https://ocr.space/
+
+![API Provider](docs/media/1-api-provider.png)
+
+**NOTE:** This provider offers 25000 API calls per month.
+
+### 3.3 Step 02: Replace your API Key
+
+![Replace Your API Key](docs/media/2-replace-your-api-key.png)
+
+**NOTE:** If you don't want to create an API Key, you can still use the "helloworld" as your default API key; that is only for testing and will be experienced once you hit the trailing limit.
+
 ## 04 Usage
+
+- **Source Directory: Execute the main.py**
+
+  ```
+  text-vision-ocr\source\main.py
+  ```
 
 ### 4.2 Output
 
