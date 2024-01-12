@@ -54,8 +54,7 @@ API Provider Link: https://ocr.space/
 
 ### 4.2 Output
 
-[4-demo-video.webm](https://github.com/gunarakulangunaretnam/ai-speech-autolight-system/assets/45822509/9ef5b3f7-ffd7-4c2d-92b6-1e402a64fe6d)
-
+[3-demo-video.webm](https://github.com/gunarakulangunaretnam/text-vision-ocr/assets/45822509/c8b1f634-1b0a-40f9-8b1b-5beeef699116)
 
 ## Social Links
 
