@@ -52,6 +52,12 @@ API Provider Link: https://ocr.space/
   text-vision-ocr\source\main.py
   ```
 
+- **Execution Command**
+
+  ```
+  python main.py
+  ```
+
 ### 4.2 Output
 
 [3-demo-video.webm](https://github.com/gunarakulangunaretnam/text-vision-ocr/assets/45822509/c8b1f634-1b0a-40f9-8b1b-5beeef699116)
