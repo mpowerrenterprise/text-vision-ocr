@@ -12,9 +12,10 @@
 
 ## 01 Introduction
 
+An automatic images-to-text converter, this cutting-edge tool simplifies the complex data extraction process, providing a seamless and accelerated workflow. With its powerful capabilities, this solution streamlines image-to-text conversion, boosting productivity and facilitating data retrieval. Additionally, this tool excels in efficiently processing bulk images, making it an ideal choice for handling large quantities of data. It's important to note that the system utilizes an online OCR API, which drives its optimal performance with advanced technology.
 
+![Banner Image](docs/media/0-banner-image.png)
 
-![Circuit Diagram](docs/media/0-banner-image.png)
 
 ## 02 Technology Stack
 
