@@ -1,4 +1,4 @@
-# TEXT VISION OCR
+# Text Vision OCR
 
 ## Repo Structure
 
@@ -62,7 +62,7 @@ API Provider Link: https://ocr.space/
 
 [3-demo-video.webm](https://github.com/gunarakulangunaretnam/text-vision-ocr/assets/45822509/c8b1f634-1b0a-40f9-8b1b-5beeef699116)
 
-# CONTACT
+# Contact
 
 ### Website: 
 
